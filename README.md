@@ -12,4 +12,4 @@ I'm an image-processing engineer working where **camera ISP** meets **robotics**
 
 **Toolbox:** Python · C/C++ · OpenCV · Open3D · PyTorch · ROS · Linux
 
-M.S. ECE, Georgia Tech · B.Eng. Control Science, Zhejiang University · [Blog](https://hujunhan.github.io) · [LinkedIn](https://linkedin.com/in/junhan-hu)
+M.S. ECE, Georgia Tech · B.Eng. Control Science, Zhejiang University · [LinkedIn](https://linkedin.com/in/junhan-hu)
